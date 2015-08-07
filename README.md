@@ -1,12 +1,12 @@
-# _{Address Book}_
+# _Address Book_
 
-##### _{Address Book allows users to create and store contacts}, {8/7/15}_
+##### _Address Book allows users to create and store contacts, 8/7/15_
 
 #### By _**{Mike Rapp}**_
 
 ## Description
 
-_{Address Book allows users to create and store contacts. Users can add the name phone number and address of their contacts. Users can also delete their list of contacts}_
+_Address Book allows users to create and store contacts. Users can add the name phone number and address of their contacts. Users can also delete their list of contacts_
 
 ## Setup
 
@@ -19,13 +19,16 @@ _{Address Book allows users to create and store contacts. Users can add the name
 
 ## Technologies Used
 
-_{Tell me about the languages you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+* _PHP_
+* _Twig_
+* _Silex_
+* _HTML_
+* _CSS_
+
 
 ### Legal
 
-*{This is boilerplate legal language. Read through it, and if you like it, use it. There are other license agreements online, but you can generally copy and paste this.}*
-
-Copyright (c) 2015 **_{List of contribtors}_**
+Copyright (c) 2015 **_Mike Rapp_**
 
 This software is licensed under the MIT license.
 
